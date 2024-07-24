@@ -1,0 +1,41 @@
+body {
+    background-color:white;
+    
+  }
+  header {
+      background-color:rgb(196, 194, 194);
+  }
+  h2 {
+    text-align: center;
+  }
+  p{
+      text-indent:50px;
+      margin-left:10px;
+      text-align:justify;
+  }
+  a.titulo{
+    text-align: center;
+  }
+  h5 {
+    text-align:justify;
+    margin-left:10px;
+  }
+  big {
+    text-align:justify;
+    margin-left:10px;
+  }
+  a.Menu{
+      border-right: solid;
+      margin-right: 10px;
+      padding-right: 10px;
+      text-decoration:none;
+      text-align: center;
+  }
+  nav{
+      border:solid;
+      text-align: center;
+  }
+  footer{
+      background-color:rgb(196, 194, 194);
+      text-align: center;
+  }
